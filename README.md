@@ -21,7 +21,7 @@
 
 📝 roles en el ámbito: desarrollador... programador web... diseñador y en un futuro de lo que venga ☺️
 
-📫 Contacto: **teamzetasprivatev1@gmail.com**
+📫 Contacto: **<a href="mailto:teamzetasprivatev1@gmail.com?subject=Soporte%20SicarioBot🤖&body=Hola,%20me%20gustaría%20saber%20más%20sobre..." target="_blank">teamzetasprivatev1@gmail.com</a>**
 <!--Intro end-->
   </p>
 <br>
