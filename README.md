@@ -51,7 +51,19 @@
     </p>
     
 </td>
-  
+
+
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.youtube.com/shorts/BGWUrxdlgjw" title="Go to Source">
+        <img align="center" width=100% src="https://i.ytimg.com/vi/BGWUrxdlgjw/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLD-gfmdQil0l1K1GrIGK1v3QqBqxw"  width="60px" height="70px" alt="VIDEO"/><h2>SicariBot🤖</h2></a>
+      </p>
+    <p align="center">
+        <a href="https://www.youtube.com/shorts/BGWUrxdlgjw" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@sicaribot"  /></a>
+      <a href="https://github.com/programador024/SicariBot" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@sicaribot" /></a>
+    </p>
+    
+</td>  
 </tr>
 </table>
   </div>
