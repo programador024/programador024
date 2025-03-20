@@ -71,7 +71,7 @@
 <br><br>
 
 <!------------------------->
-<h2 tabindex="-1" class="heading-element" dir="auto">GitHub-Contribución y Lenguaje <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle" /></h2>
+<h2 tabindex="-1" class="heading-element" dir="auto" align="center">GitHub-Contribución y Lenguaje <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle" /></h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
