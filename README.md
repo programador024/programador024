@@ -71,7 +71,7 @@
 <br><br>
 
 <!------------------------->
-<h2 tabindex="-1" class="heading-element" dir="auto" align="center">GitHub-Contribución y Lenguaje <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle" /></h2>
+<h2 tabindex="-1" class="heading-element" dir="auto" align="center">Rachas-Contribución y Lenguaje <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle" /></h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -79,7 +79,7 @@
 <tr border="none">
 <td width="60%" align="center">
 
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=programador024&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Rachas y Contribuciones" alt="Rachas-Contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=programador024&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="40%" align="center">
