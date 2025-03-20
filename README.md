@@ -58,7 +58,7 @@
         <img align="center" width=100% src="https://i9.ytimg.com/vi/ScdCtxylqdY/sddefault.jpg?v=67d3b90a&sqp=CNzA7b4G&rs=AOn4CLBdU5hjDJsF7ORlzsb5WfvMkFbH-g"  width="60px" height="70px" alt="VIDEO"/><h2>Actualización SicarioBot🤖 2025</h2></a>
       </p>
     <p align="center">
-        <a href="https://www.youtube.com/shorts/BGWUrxdlgjw" title="📌 YouTube (Ctrl + Click para abrir en nueva pestaña) ⧉"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@actualizacionbot2025" /></a>
+        <a href="https://www.youtube.com/watch?v=ScdCtxylqdY&t=1s" title="📌 YouTube (Ctrl + Click para abrir en nueva pestaña) ⧉"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@actualizacionbot2025" /></a>
     </p>      
 </td>  
 </tr>
