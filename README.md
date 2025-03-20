@@ -2,7 +2,7 @@
 
 <div align="center">
 <P align="left">
-<a href="https://www.youtube.com/@nms_sicario023"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />📌 YouTube (Ctrl + Click para abrir en nueva pestaña) ⧉</a>
+<a href="https://www.youtube.com/@nms_sicario023"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" title="📌 YouTube (Ctrl + Click para abrir en nueva pestaña) ⧉" /></a>
 <a href="https://t.me/mds_inmunes"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://teamzetasprivate.kesug.com"><img align="center" src="https://img.shields.io/badge/teamzetasprivate-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Sitioweb" /></a>
 <a href="mailto:teamzetasprivatev1@gmail.com?subject=Soporte%20SicarioBot🤖&body=Hola,%20me%20gustaría%20saber%20más%20sobre..."><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
