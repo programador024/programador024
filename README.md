@@ -63,26 +63,18 @@
 </tr>
 </table>
   </div>
-
-
-
-
 <br>
-<h2 tabindex="-1" class="heading-element" dir="auto" align="center">Rachas-Contribución y Lenguaje <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="center" /></h2>
+<h2 tabindex="-1" class="heading-element" dir="auto" align="center">Rachas-Contribución y Lenguaje <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle" /></h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
-
   <img  title="🔥 Rachas y Contribuciones" alt="Rachas-Contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=programador024&theme=dark&hide_border=false" /> 
 </td>
-
 <td width="40%" align="center">
-
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=programador024&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" title="Lenguaje usado"/>
-
   </td>
 </tr>
 </table>
