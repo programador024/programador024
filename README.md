@@ -66,7 +66,7 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="left">
+<table align="center">
 <tr border="none">
 <td width="60%" align="center">
   <img  title="🔥 Rachas y Contribuciones" alt="Rachas-Contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=programador024&theme=dark&hide_border=false" /> 
@@ -76,4 +76,4 @@
   </td>
 </tr>
 </table>
-</p>        
+</p>  
