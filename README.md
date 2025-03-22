@@ -64,7 +64,7 @@
 </table>
   </div>
 
-<br>
+
 &#xa0;
 <!------------------------->
 <h2 tabindex="-1" class="heading-element" dir="auto" align="center">Rachas-Contribución y Lenguaje <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle" /></h2>
