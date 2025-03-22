@@ -69,10 +69,12 @@
     </table>
 </div>
 
-<h2>Si quieres apoyarme 😎</h2>
-    <a href="https://www.paypal.com/donate/?hosted_button_id=PHUXUPYCPJAZL" target="_blank">
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="Da Click para donar con PayPal" alt="Botón de Donar">
-    </a>
+### ☕ Apóyame con una donación
+
+Si te gusta mi trabajo y quieres apoyarme, puedes hacer una donación a través de PayPal. ¡Gracias! 😊
+
+[![Donar con PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=PHUXUPYCPJAZL)
+
     
 
 
