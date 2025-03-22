@@ -48,8 +48,7 @@
     <p align="center">
         <a href="https://www.youtube.com/shorts/BGWUrxdlgjw" title="📌 YouTube (Ctrl + Click para abrir en nueva pestaña) ⧉"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@sicaribot"  /></a>
       <a href="https://github.com/programador024/SicariBot"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@sicaribot" /></a>
-    </p>
-    
+    </p>   
 </td>
 
 <td width="25%" align="center">
