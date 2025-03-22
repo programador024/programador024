@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋  soy SicarioOfc / Programador-Informático ✨ </h1> 
-
 <div align="center">
 <P align="left">
 <a href="https://www.youtube.com/@nms_sicario023"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" title="📌 YouTube (Ctrl + Click para abrir en nueva pestaña) ⧉"/></a>
@@ -11,7 +10,6 @@
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
-
 <p align="left">
 🎓 INGENIERO EN INFORMÁTICA
 
