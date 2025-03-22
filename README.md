@@ -34,7 +34,7 @@
 
 <div id="proyectos">
     <h2>Algunos proyectos 👨🏻‍💻</h2>
-    <table align="center">
+    <table align="left">
         <tr>
             <td width="25%" align="center">
                 <p align="center">
