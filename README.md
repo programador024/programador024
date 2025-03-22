@@ -69,6 +69,14 @@
     </table>
 </div>
 
+<h2>Si quieres apoyarme 😎</h2>
+<div class="button-container-donatepaypal">
+    <a href="https://www.paypal.com/donate/?hosted_button_id=PHUXUPYCPJAZL" target="_blank">
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" class="round-image-button-donepaypal" border="0" name="submit" title="Da Click para donar con PayPal" alt="Botón de Donar">
+    </a>
+    </div>
+</div>
+
 <!-- Agregar un separador para asegurar que el contenido siguiente se muestre debajo -->
 <div style="clear: both;"></div>
 
