@@ -73,7 +73,7 @@
 
 Si te gusta mi trabajo y quieres apoyarme, puedes hacer una donación a través de PayPal. ¡Gracias! 😊
 
-[![Donar con PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=PHUXUPYCPJAZL)
+[![Donar con PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=WBH9YG88LGJCW)
 
     
 
