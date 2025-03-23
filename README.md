@@ -40,7 +40,7 @@
     <tr>
         <td align="center" width="50%">
             <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
-                <img src="https://i.ytimg.com/vi/BGWUrxdlgjw/oar2.jpg" width="250px" alt="SicarioBot"/>
+                <img src="https://i.ytimg.com/vi/BGWUrxdlgjw/oar2.jpg" width="101.25px" height="180px alt="SicarioBot"/>
                 <h3>🤖 SicarioBot</h3>
             </a>
             <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
@@ -52,7 +52,7 @@
         </td>
         <td align="center" width="50%">
             <a href="https://www.youtube.com/watch?v=ScdCtxylqdY&t=1s">
-                <img src="https://i9.ytimg.com/vi/ScdCtxylqdY/sddefault.jpg?v=67d3b90a&sqp=CNTQ_L4G&rs=AOn4CLCgUHY9Zj3d0bRNIE2gTMjdNWFbRA" width="250px" alt="Actualización SicarioBot"/>
+                <img src="https://i9.ytimg.com/vi/ScdCtxylqdY/sddefault.jpg?v=67d3b90a&sqp=CNTQ_L4G&rs=AOn4CLCgUHY9Zj3d0bRNIE2gTMjdNWFbRA" width="101.25px" height="180px alt="Actualización SicarioBot"/>
                 <h3>⚡ Actualización SicarioBot 2025</h3>
             </a>
             <a href="https://www.youtube.com/watch?v=ScdCtxylqdY&t=1s">
