@@ -1,99 +1,82 @@
-<h1 align="center">Hola 👋 soy SicarioOfc / Programador-Informático ✨</h1> 
+<h1 align="center">👋 Hola, soy SicarioOfc / Programador-Informático ✨</h1>
+
 <div align="center">
-    <p align="left">
-        <a href="https://www.youtube.com/@nms_sicario023">
-            <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" title="📌 YouTube (Ctrl + Click para abrir en nueva pestaña) ⧉"/>
-        </a>
-        <a href="https://t.me/mds_inmunes">
-            <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" title="📌 Telegram (Ctrl + Click para abrir en nueva pestaña) ⧉"/>
-        </a>
-        <a href="https://teamzetasprivate.kesug.com">
-            <img align="center" src="https://img.shields.io/badge/teamzetasprivate-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Sitioweb" title="📌 TeamZetasPrivate (Ctrl + Click para abrir en nueva pestaña) ⧉"/>
-        </a>
-        <a href="mailto:teamzetasprivatev1@gmail.com?subject=Soporte%20SicarioBot🤖&body=Hola,%20me%20gustaría%20saber%20más%20sobre...">
-            <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="📌 Gmail (Ctrl + Click para abrir en nueva pestaña) ⧉"/>
-        </a>
-    </p>
+    <a href="https://www.youtube.com/@nms_sicario023">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    </a>
+    <a href="https://t.me/mds_inmunes">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+    <a href="https://teamzetasprivate.kesug.com">
+        <img src="https://img.shields.io/badge/TeamZetasPrivate-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Sitio Web"/>
+    </a>
+    <a href="mailto:teamzetasprivatev1@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
+    </a>
 </div>
 
-<h2>Sobre mí 😃</h2>
-<p align="left">
-    🎓 INGENIERO EN INFORMÁTICA <br>
-    🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las aplicaciones y páginas web 😵 <br>
-    💻 Unos cuántos años de experiencia en el proceso de desarrollo de software 💻 <br>
-    📝 Roles en el ámbito: desarrollador... programador web... diseñador y en un futuro de lo que venga ☺️ <br>
-    📫 Contacto: <a href="mailto:teamzetasprivatev1@gmail.com">teamzetasprivatev1@gmail.com</a>
-</p>
+---
 
-<h2>Tecnologías conocidas 👨🏻‍💻</h2>
-<p align="left">
+## 🚀 Sobre mí  
+- 🎓 **Ingeniero en Informática**  
+- 🎥 **Pequeño creador de contenido**, comparto conocimientos a través de aplicaciones y páginas web.  
+- 💻 **Experiencia en desarrollo de software** con varios años en programación.  
+- 📝 **Roles:** Desarrollador, Programador Web, Diseñador y lo que venga en el futuro. 😃  
+- 📫 **Contacto:** [teamzetasprivatev1@gmail.com](mailto:teamzetasprivatev1@gmail.com)  
+
+---
+
+## 🛠 Tecnologías que uso
+<p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
     </a>
 </p>
 
-<div id="proyectos">
-    <h2>Algunos proyectos 👨🏻‍💻</h2>
-    <table align="center">
-        <tr>
-            <td width="25%" align="center">
-                <p align="center">
-                    <a href="https://www.youtube.com/shorts/BGWUrxdlgjw" title="📌 YouTube (Ctrl + Click para abrir en nueva pestaña) ⧉">
-                        <img align="center" width="100%" src="https://i.ytimg.com/vi/BGWUrxdlgjw/oar2.jpg" width="101.25px" height="180px" alt="VIDEO"/>
-                        <h2>SicarioBot🤖</h2>
-                    </a>
-                </p>
-                <p align="center">
-                    <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
-                        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@sicaribot"/>
-                    </a>
-                    <a href="https://github.com/programador024/SicariBot">
-                        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@sicaribot"/>
-                    </a>
-                </p>
-            </td>
-            <td width="25%" align="center">
-                <p align="center">
-                    <a href="https://www.youtube.com/watch?v=ScdCtxylqdY&t=1s" title="📌 YouTube (Ctrl + Click para abrir en nueva pestaña) ⧉">
-                        <img align="center" width="100%" src="https://i9.ytimg.com/vi/ScdCtxylqdY/sddefault.jpg?v=67d3b90a&sqp=CNTQ_L4G&rs=AOn4CLCgUHY9Zj3d0bRNIE2gTMjdNWFbRA" width="101.25px" height="180px" alt="VIDEO"/>
-                        <h2>Actualización SicarioBot🤖 2025</h2>
-                    </a>
-                </p>
-                <p align="center">
-                    <a href="https://www.youtube.com/watch?v=ScdCtxylqdY&t=1s">
-                        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@actualizacionbot2025"/>
-                    </a>
-                </p>
-            </td>
-        </tr>
-    </table>
-</div>
+---
 
-### ☕ Apóyame con una donación
+## 🔥 Algunos proyectos
+<table align="center">
+    <tr>
+        <td align="center" width="50%">
+            <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
+                <img src="https://i.ytimg.com/vi/BGWUrxdlgjw/oar2.jpg" width="250px" alt="SicarioBot"/>
+                <h3>🤖 SicarioBot</h3>
+            </a>
+            <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
+                <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+            </a>
+            <a href="https://github.com/programador024/SicariBot">
+                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+        </td>
+        <td align="center" width="50%">
+            <a href="https://www.youtube.com/watch?v=ScdCtxylqdY&t=1s">
+                <img src="https://i9.ytimg.com/vi/ScdCtxylqdY/sddefault.jpg?v=67d3b90a&sqp=CNTQ_L4G&rs=AOn4CLCgUHY9Zj3d0bRNIE2gTMjdNWFbRA" width="250px" alt="Actualización SicarioBot"/>
+                <h3>⚡ Actualización SicarioBot 2025</h3>
+            </a>
+            <a href="https://www.youtube.com/watch?v=ScdCtxylqdY&t=1s">
+                <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+            </a>
+        </td>
+    </tr>
+</table>
 
-Si te gusta mi trabajo y quieres apoyarme, puedes hacer una donación a través de PayPal. ¡Gracias! 😊
+---
 
-[![Donar con PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=WBH9YG88LGJCW)
-
-    
-
-
-<!-- Agregar un separador para asegurar que el contenido siguiente se muestre debajo -->
-<div style="clear: both;"></div>
-
-<h2 align="center">Rachas-Contribución y Lenguaje 
-    <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"/>
-</h2>
+## ☕ Apóyame con una donación
+Si te gusta mi trabajo y quieres apoyarme, puedes hacer una donación a través de PayPal. ¡Gracias! 😊  
 
 <p align="center">
-    <table align="center">
-        <tr>
-            <td width="60%" align="center">
-                <img title="🔥 Rachas y Contribuciones" alt="Rachas-Contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=programador024&theme=dark&hide_border=false" />
-            </td>
-            <td width="40%" align="center">
-                <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=programador024&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" title="Lenguaje usado"/>
-            </td>
-        </tr>
-    </table>
+    <a href="https://www.paypal.com/donate/?hosted_button_id=WBH9YG88LGJCW">
+        <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donar con PayPal"/>
+    </a>
+</p>
+
+---
+
+## 📊 Rachas y Lenguaje en GitHub  
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=programador024&theme=dark&hide_border=false" width="49%"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=programador024&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" width="49%"/>
 </p>
