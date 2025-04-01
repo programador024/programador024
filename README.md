@@ -52,7 +52,7 @@
         </td>
         <td align="center" width="50%">
             <a href="https://www.youtube.com/watch?v=ScdCtxylqdY&t=1s" title="📌 YouTube (Ctrl + Click para abrir en nueva pestaña) ⧉">
-                <img src="https://i9.ytimg.com/vi/ScdCtxylqdY/sddefault.jpg?v=67d3b90a&sqp=COTyrL8G&rs=AOn4CLAd2OwcTLtxoah4m2e-PNYHl29B-Q" width="115px" height="180px alt="Actualización SicarioBot"/>
+                <img src="https://i9.ytimg.com/vi/ScdCtxylqdY/sddefault.jpg?v=67d3b90a&sqp=COTyrL8G&rs=AOn4CLAd2OwcTLtxoah4m2e-PNYHl29B-Q" width="130px" height="180px alt="Actualización SicarioBot"/>
                 <h3>⚡ Actualización SicarioBot 2025</h3>
             </a>
             <a href="https://www.youtube.com/watch?v=ScdCtxylqdY&t=1s" title="📌 YouTube (Ctrl + Click para abrir en nueva pestaña) ⧉">
