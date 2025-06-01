@@ -4,7 +4,7 @@
     <a href="https://www.youtube.com/@nms_sicario023">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" title="📌 YouTube (Ctrl + Click para abrir en nueva pestaña) ⧉"/>
     </a>
-    <a href="https://t.me/mds_inmunes">
+    <a href="https://t.me/mds_inmunes2">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" title="📌 Telegram (Ctrl + Click para abrir en nueva pestaña) ⧉"/>
     </a>
     <a href="https://teamzetasprivate.kesug.com">
