@@ -28,9 +28,93 @@
 
 ## 🛠 Tecnologías que uso
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
-    </a>
+  <a href="https://developer.android.com/studio">
+    <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img src="https://skillicons.dev/icons?i=c" title="C" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://skillicons.dev/icons?i=cs" title="C#" />
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  </a>
+  <a href="https://dart.dev/">
+    <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
+  </a>
+  <a href="https://flutter.dev/">
+    <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=py" title="Python" />
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  </a>
+  <a href="https://www.sqlite.org/">
+    <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+  </a>
+  <a href="https://www.gtk.org/">
+    <img src="https://skillicons.dev/icons?i=gtk" title="GTK" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  </a>
+  <a href="https://mui.com/">
+    <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" />
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+  </a>
+  <a href="https://www.eclipse.org/">
+    <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html">
+    <img src="https://skillicons.dev/icons?i=ai" title="Adobe Illustrator" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://skillicons.dev/icons?i=ps" title="Adobe Photoshop" />
+  </a>
 </p>
 
 ---
