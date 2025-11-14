@@ -116,7 +116,7 @@
     <img src="https://skillicons.dev/icons?i=ps" title="Adobe Photoshop" />
   </a>
   <a href="https://www.apachefriends.org">
-    <img src="https://img.apponic.com/247/35/ecb6d46ca805bc89f44859790d4c2e9c.png" width="48" style="max-width: 100%; title="Xampp" />
+    <img src="https://img.apponic.com/247/35/ecb6d46ca805bc89f44859790d4c2e9c.png" width="48" title="Xampp" style="max-width: 100%; />
   </a>
 </p>
 
