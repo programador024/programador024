@@ -2,19 +2,19 @@
 
 <div align="center">
     <a href="https://www.youtube.com/@nms_sicario023">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="📌 YouTube (Ctrl + Click Sigueme en YouTube) ⧉"/>
     </a>
     <a href="https://t.me/mds_inmunes2">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="📌 Telegram (Ctrl + Click Sigueme en Telegram) ⧉"/>
     </a>
     <a href="https://teamzetasprivate.kesug.com">
-        <img src="https://img.shields.io/badge/TeamZetasPrivate-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+        <img src="https://img.shields.io/badge/TeamZetasPrivate-000000?style=for-the-badge&logo=About.me&logoColor=white" title="📌 TeamZetasPrivate (Ctrl + Click Sigueme en mi pagina web) ⧉"/>
     </a>
     <a href="mailto:teamzetasprivatev1@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="📌 Gmail (Ctrl + Click para contactarme para cualquier cosa o duda) ⧉"/>
     </a>
     <a href="https://www.paypal.com/paypalme/SicariOfc025">
-        <img src="https://img.shields.io/badge/PayPal-blue?logo=paypal" />
+        <img src="https://img.shields.io/badge/PayPal-blue?style=for-the-badge&logo=paypal&logoColor=white" title="📌 PayPal (Ctrl + Click Apoyame con una donación para un cafecito) ⧉"/>
     </a>
 </div>
 
