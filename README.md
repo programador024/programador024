@@ -119,7 +119,7 @@
 
 <td align="center" width="50%">
     <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
-        <img src="https://github.com/programador024/CobraKaiBot-WA/raw/main/img/cobrakai_menu.png" width="101px" height="180px" alt="SicarioBot"/>
+        <img src="https://github.com/programador024/CobraKaiBot-WA/blob/main/img/favicon/favicon.png" width="101px" height="180px" alt="SicarioBot"/>
         <h3>CobraKaiBot-WA</h3>
     </a>
     <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
