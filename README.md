@@ -118,13 +118,15 @@
 </td>
 
 <td align="center" width="50%">
-    <a href="https://www.youtube.com/watch?v=ScdCtxylqdY&t=1s">
-        <img src="https://i9.ytimg.com/vi/ScdCtxylqdY/sddefault.jpg?v=67d3b90a&sqp=COju0b8G&rs=AOn4CLANBTgpnf8W-6t8hMnp6DnMwOwXbg"
-             width="130px" height="180px" alt="Actualización SicarioBot"/>
-        <h3>⚡ Actualización SicarioBot 2025</h3>
+    <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
+        <img src="https://github.com/programador024/CobraKaiBot-WA/raw/main/img/cobrakai_menu.png" width="101px" height="180px" alt="SicarioBot"/>
+        <h3>CobraKaiBot-WA</h3>
     </a>
-    <a href="https://www.youtube.com/watch?v=ScdCtxylqdY&t=1s">
+    <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    </a>
+    <a href="https://github.com/programador024/CobraKaiBot-WA">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
 </td>
 </tr>
