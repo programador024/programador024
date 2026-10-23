@@ -106,7 +106,7 @@
 <tr>
 <td align="center" width="50%">
     <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
-        <img src="https://github.com/programador024/NemeSicBot-TG/raw/main/imagenes/nemesicbot_menu.jpg" width="101px" height="180px" alt="SicarioBot"/>
+        <img src="https://github.com/programador024/NemeSicBot-TG/blob/main/imagenes/favicon/favicon.png" width="101px" height="180px" alt="SicarioBot"/>
         <h3>🤖 NemeSicBot-TG</h3>
     </a>
     <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
