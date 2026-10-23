@@ -106,13 +106,13 @@
 <tr>
 <td align="center" width="50%">
     <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
-        <img src="https://i.ytimg.com/vi/BGWUrxdlgjw/oar2.jpg" width="101px" height="180px" alt="SicarioBot"/>
-        <h3>🤖 SicarioBot</h3>
+        <img src="https://github.com/programador024/NemeSicBot-TG/raw/main/imagenes/nemesicbot_menu.jpg" width="101px" height="180px" alt="SicarioBot"/>
+        <h3>🤖 NemeSicBot-TG</h3>
     </a>
     <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
-    <a href="https://github.com/programador024/SicariBot">
+    <a href="https://github.com/programador024/NemeSicBot-TG">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
 </td>
@@ -120,7 +120,7 @@
 <td align="center" width="50%">
     <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
         <img src="https://github.com/programador024/CobraKaiBot-WA/blob/main/img/favicon/favicon.png" width="101px" height="180px" alt="SicarioBot"/>
-        <h3>CobraKaiBot-WA</h3>
+        <h3>🐍 CobraKaiBot-WA</h3>
     </a>
     <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
