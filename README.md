@@ -1,20 +1,20 @@
-<h1 align="center">👋 Hola, soy SicarioOfc / Programador-Informático ✨</h1>
+<h1 align="center">👋 Hola, soy Sika Ofc / Programador Informático ✨</h1>
 
 <div align="center">
-    <a href="https://www.youtube.com/@nms_sicario023">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="📌 YouTube (Ctrl + Click Sigueme en YouTube) ⧉"/>
+    <a href="https://www.youtube.com/@prog_sikaofc">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="📌 YouTube (Sígueme en YouTube)"/>
     </a>
-    <a href="https://t.me/mds_inmunes2">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="📌 Telegram (Ctrl + Click Sigueme en Telegram) ⧉"/>
+    <a href="https://t.me/md_sikadojo">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="📌 Telegram (Sígueme en Telegram)"/>
     </a>
-    <a href="https://teamzetasprivate.kesug.com">
-        <img src="https://img.shields.io/badge/TeamZetasPrivate-000000?style=for-the-badge&logo=About.me&logoColor=white" title="📌 TeamZetasPrivate (Ctrl + Click Sigueme en mi pagina web) ⧉"/>
+    <a href="https://sikadojoweb.kesug.com">
+        <img src="https://img.shields.io/badge/SikaDojoWeb-111111?style=for-the-badge&logo=About.me&logoColor=white" title="📌 SikaDojoWeb (Visita mi sitio web)"/>
     </a>
-    <a href="mailto:teamzetasprivatev1@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="📌 Gmail (Ctrl + Click para contactarme para cualquier cosa o duda) ⧉"/>
+    <a href="mailto:programadorgamer025@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="📌 Gmail (Contáctame para consultas)"/>
     </a>
-    <a href="https://www.paypal.com/paypalme/SicariOfc025">
-        <img src="https://img.shields.io/badge/PayPal-blue?style=for-the-badge&logo=paypal&logoColor=white" title="📌 PayPal (Ctrl + Click Apoyame con una donación para un cafecito) ⧉"/>
+    <a href="https://www.paypal.com/paypalme/SikaOfc">
+        <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" title="📌 PayPal (Apóyame con una donación)"/>
     </a>
 </div>
 
@@ -23,9 +23,9 @@
 ## 🚀 Sobre mí  
 - 🎓 **Ingeniero en Informática**  
 - 🎥 Pequeño creador de contenido.  
-- 💻 Años de experiencia en programación.  
+- 💻 Experiencia en desarrollo y programación.  
 - 📝 Roles: Desarrollador, Diseñador, Programador Web.  
-- 📫 **Contacto:** teamzetasprivatev1@gmail.com  
+- 📫 **Contacto:** programadorgamer025@gmail.com  
 
 ---
 
@@ -106,7 +106,7 @@
 <tr>
 <td align="center" width="50%">
     <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
-        <img src="https://github.com/programador024/NemeSicBot-TG/blob/main/imagenes/favicon/favicon.png" width="101px" height="180px" alt="SicarioBot"/>
+        <img src="https://github.com/programador024/NemeSicBot-TG/blob/main/imagenes/favicon/favicon.png" width="101px" height="180px" alt="NemeSicBot-TG"/>
         <h3>🤖 NemeSicBot-TG</h3>
     </a>
     <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
@@ -119,7 +119,7 @@
 
 <td align="center" width="50%">
     <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
-        <img src="https://github.com/programador024/CobraKaiBot-WA/blob/main/img/favicon/favicon.png" width="101px" height="180px" alt="SicarioBot"/>
+        <img src="https://github.com/programador024/CobraKaiBot-WA/blob/main/img/favicon/favicon.png" width="101px" height="180px" alt="CobraKaiBot-WA"/>
         <h3>🐍 CobraKaiBot-WA</h3>
     </a>
     <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
@@ -136,8 +136,8 @@
 
 ## ☕ Apóyame con una donación
 <p align="center">
-<a href="https://www.paypal.com/donate/?hosted_button_id=WBH9YG88LGJCW">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"/>
+<a href="https://www.paypal.com/paypalme/SikaOfc">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donar con PayPal"/>
 </a>
 </p>
 
@@ -146,9 +146,9 @@
 ## 📊 Rachas y Lenguajes en GitHub  
 <p align="center">
   <a href="https://github.com/programador024">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=programador024&theme=dark&hide_border=false" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=programador024&theme=dark&hide_border=false" width="48%" alt="Racha de GitHub"/>
   </a>
   <a href="https://github.com/programador024">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=programador024&theme=dark&hide_border=false&layout=compact&langs_count=6" width="48%"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=programador024&theme=dark&hide_border=false&layout=compact&langs_count=6" width="48%" alt="Lenguajes más usados"/>
   </a>
 </p>
