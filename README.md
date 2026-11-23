@@ -106,8 +106,8 @@
 <tr>
 <td align="center" width="50%">
     <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
-        <img src="https://github.com/programador024/NemeSicBot-TG/blob/main/imagenes/favicon/favicon.png" width="101px" height="180px" alt="NemeSicBot-TG"/>
-        <h3>🤖 NemeSicBot-TG</h3>
+        <img src="https://github.com/programador024/NemeSikaBot-TG/blob/main/imagenes/favicon/favicon.png" width="101px" height="180px" alt="NemeSicBot-TG"/>
+        <h3>🤖 NemeSikaBot-TG</h3>
     </a>
     <a href="https://www.youtube.com/shorts/BGWUrxdlgjw">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
